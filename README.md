@@ -4,6 +4,6 @@ Here are some of my projects during the bootcamp TripleTen, each one have differ
 
 | Project | Description | Type | File | Data |
 | ------- | ----------- | ---- | ---- | ---- |
-| Project 1 | Using basic python to manipulate data and dataframes. | Basic Python | Notebook |[Datos](https://github.com/zyrusin/TripleTenProjects/blob/3dcd0969659f8c431b891993276ebf0e793075bd/Proyecto%201/music_project_en.csv)|
+| Project 1 | Using basic python to manipulate data and dataframes. | Basic Python | [Notebook](https://github.com/zyrusin/TripleTenProjects/blob/main/Proyecto%201/Proyecto.ipynb) |[Datos](https://github.com/zyrusin/TripleTenProjects/blob/main/Proyecto%201/music_project_en.csv)|
 
 
